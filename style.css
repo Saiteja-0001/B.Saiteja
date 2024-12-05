@@ -1,0 +1,22 @@
+.bttn{
+
+    cursor: pointer;
+    padding: 0;
+    margin-left: 20cm;
+    margin-top: 10cm;
+    border-radius: 10cm;
+    background-color: aqua;
+    font-family: cursive;
+    font-size: large;
+}
+
+
+.img{
+
+
+    margin-left: 20cm;
+    margin-top: 5cm;
+    background-color: rgb(1, 181, 252);
+    cursor: copy;
+
+}
